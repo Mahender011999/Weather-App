@@ -1,0 +1,39 @@
+.card{
+    background-color: rgb(74, 142, 78);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card-body{
+   background-image: url("https://wallpaperaccess.com/full/2199630.jpg");   
+   background-repeat: no-repeat;
+   margin-left: 500px;
+   margin-top: 40px;
+   height: 400px;
+   width: 500px;
+ 
+}
+.card-tittle{
+    text-align: center;
+    color: rgb(74, 142, 78);
+    font-weight: bold;
+}
+.form{
+    height: 20px;
+    margin-left: 180px;
+}
+.submit{
+    background-color:skyblue;
+    border-radius: 3px;
+    border-color:rgb(74, 142, 78);
+    height: 20px;
+    font-size: 10px;
+    text-align: center;
+    margin-left: 210px;
+}
+.heading{
+    margin-top: 70px;
+    color: rgb(74, 142, 78);
+    text-align: center;
+}
